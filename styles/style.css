@@ -188,15 +188,8 @@ body {
         margin: 0;
     }
 
-    .container__mobile{
-        display: flex;
-        flex-direction: column-reverse;
-        align-items: center;
-        gap: 1.5em;
-    }
-
     .botao_telas{
-        margin: 1em 0 0 0;
+        margin: 1em 0 2em 0;
     }
 
     .dispositivos{
